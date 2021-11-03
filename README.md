@@ -19,3 +19,6 @@ _The assignment was to create a easy SQL mystery that could be solved within 5-1
 In the role as an backFlash administrator, it's your job to find the person who threatened to egg the politician. You need the full name  of the perpetrator in order to be able to call the police.
 
 They made a a post about the egging some time ago. Can you find the post and work your way to their full name? 
+
+# DB design
+![db_design](img/db_design.png)
