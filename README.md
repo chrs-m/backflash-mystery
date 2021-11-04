@@ -20,5 +20,14 @@ In the role as an backFlash administrator, it's your job to find the person who 
 
 They made a a post about the egging some time ago. Can you find the post and work your way to their full name? 
 
+
+**Think you found the right person?**
+
+Use these queries to find out;
+
+*INSERT INTO solution VALUES (1, "Firstname Lastname");*
+
+*SELECT name FROM solution;*
+
 # DB design
 ![db_design](img/db_design.png)
