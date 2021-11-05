@@ -25,9 +25,10 @@ They made a a post about the egging some time ago. Can you find the post and wor
 
 Use these queries to find out;
 
-*INSERT INTO solution VALUES (1, "Firstname Lastname");*
-
-*SELECT name FROM solution;*
+```sql
+INSERT INTO solution VALUES (1, "Firstname Lastname");
+SELECT name FROM solution;
+```
 
 # DB design
 ![db_design](img/db_design.png)
